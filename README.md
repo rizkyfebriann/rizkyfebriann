@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋 , I'm Rizky Febrian!
 Experienced as QA Engineer (Manual) , Having knowledge to create web automation using Cucumber Selenium Java. Create mobile (Android) automation using Cucumber Appium Java. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a TestRail, Trello..
 
-
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
