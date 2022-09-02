@@ -11,9 +11,9 @@ Experienced as QA Engineer (Manual) , Having knowledge to create web automation 
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently Job Seeker</br>
     - 💬 Ask anything about me</br>
-    - 👀 I’m interested in ...
-    - 🌱 I’m currently learning ...
-    - 💞️ I’m looking to collaborate on ...
+    - 👀 I’m interested in ... </br>
+    - 🌱 I’m currently learning ... </br>
+    - 💞️ I’m looking to collaborate on ... </br>
     - 📫 How to reach me: <a href="mailto:rizkyyfebriann@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
