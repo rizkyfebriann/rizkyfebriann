@@ -12,7 +12,7 @@ Experienced as QA Engineer (Manual) , Having knowledge to create web automation 
     - 🔭 I’m currently Job Seeker</br>
     - 💬 Ask anything about me</br>
     - 👀 I’m interested in ... </br>
-    - 🌱 I’m currently learning Katalon, Jira, Insomnia </br>
+    - 🌱 I’m currently try to learning Katalon, Cypress, Jira, Insomnia </br>
     - 💞️ I’m looking to collaborate on Startup or Tech company </br>
     - 📫 How to reach me: <a href="mailto:rizkyyfebriann@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
