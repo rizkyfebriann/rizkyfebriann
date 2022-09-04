@@ -4,19 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi there 👋 , I'm Rizky Febrian!
-Experienced as QA Engineer (Manual) , Having knowledge to create web automation using Cucumber Selenium Java. Create mobile (Android) automation using Cucumber Appium Java. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a TestRail, Trello..
+Experienced as QA Engineer (Manual) , Having knowledge to create web automation using Cucumber Selenium Java. Create mobile (Android) automation using Cucumber Appium Java. API Testing using Postman, Insomnia and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a TestRail, Jira, Trello..
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently Job Seeker</br>
     - 💬 Ask anything about me</br>
-    - 👀 I’m interested in ... </br>
-    - 🌱 I’m currently try to learning Katalon, Cypress, Jira, Insomnia </br>
+    - 👀 I’m interested in Computer, Software and anything all about technology </br>
+    - 🌱 I’m currently try to learning Katalon, RobotFramework, Cypress</br>
     - 💞️ I’m looking to collaborate on Startup or Tech company </br>
     - 📫 How to reach me: <a href="mailto:rizkyyfebriann@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: I'm like cats </br>
 </details>
 <p align="left">
 <a href="https://github.com/rizkyfebriann">
